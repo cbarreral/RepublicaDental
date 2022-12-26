@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="ClinicaDental.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="ClinicaDental.exe" version="1.0.0.4" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="logo.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ClinicaDental.exe" size="2952112">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ClinicaDental.exe" size="3024304">
       <assemblyIdentity name="ClinicaDental" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>wkyAv48K1tYleKiEMYIRaEMFoaZx/5V/sVjH56zfJf0=</dsig:DigestValue>
+        <dsig:DigestValue>BbKiaE2HgYm05EYJQ+jsZnYtZqlfIVf2aa7t0wGaGI4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -255,13 +255,13 @@
       <dsig:DigestValue>j1iLSeS24CPN6MfE6JRenDegWv8DKS+s7FXqVCfrlz4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ClinicaDental.pdb" size="681472">
+  <file name="ClinicaDental.pdb" size="818688">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>7xMk8+S8Ksy5CxDB4Bi6oe+scldOYO7DLpx2OFHEIRQ=</dsig:DigestValue>
+      <dsig:DigestValue>bj7txSLe3YEkFr32swa1SPlFXTL5Czvnryr7YsOExi4=</dsig:DigestValue>
     </hash>
   </file>
   <file name="dll\msvcr100.dll" size="827728">
