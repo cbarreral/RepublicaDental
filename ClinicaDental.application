@@ -7,14 +7,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="ClinicaDental.exe.manifest" size="19033">
+    <dependentAssembly dependencyType="install" codebase="ClinicaDental.exe.manifest" size="21071">
       <assemblyIdentity name="ClinicaDental.exe" version="1.0.0.4" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>UlT2gX/pLGdezS0RD8SaGyPnQmp9P0nEH9M/GK9ku7A=</dsig:DigestValue>
+        <dsig:DigestValue>T57QgCuDOsOqDksbB1e74VJ8qqgS0DxKl78Q/1PgKiw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
